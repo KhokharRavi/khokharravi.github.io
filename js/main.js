@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["Ravi Khokhar.", "Android Developer.", "Freelancer.", "Photographer."],
       typeSpeed: 100,
       loop: true,
     });
@@ -93,9 +93,9 @@ $(document).ready(function() {
 
   $('.services-carousel').owlCarousel({
       autoplay: true,
-      loop: true,
+      loop: false,
       margin: 20,
-      dots: true,
+      dots: false,
       nav: false,
       responsiveClass: true,
       responsive: { 0: { items: 1 }, 768: { items: 2 }, 900: { items: 4 } }

@@ -279,7 +279,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
+  color: #111;
   font-size: 15px;
 }
 
@@ -342,6 +342,7 @@ nav ul li a {
   font-weight: 500;
   text-transform: uppercase;
   display: block;
+  
 }
 
 .services-block .separator {
